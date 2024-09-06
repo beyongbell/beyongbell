@@ -6,7 +6,7 @@ Software Developer
 
 I've always been passionate about technology, and I love using my skills to solve complex problems. Strong problem-solving skills, teamwork, ability to work under pressure
 
-* 🌍  I'm based in Chiang Mai, Thailand
+* 🌍  I'm based in Thailand
 * ✉️  You can contact me at [thinnakorn.bell.dev@gmail.com](mailto:thinnakorn.bell.dev@gmail.com)
 * 🧠  I'm learning The rise of Web 3.0
 * ⚡  Overall, I'm passionate about using technology to make a difference in the world it's through my work as a software developer
